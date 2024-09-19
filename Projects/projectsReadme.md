@@ -1,21 +1,19 @@
 # Upload Format
-Your directory name should be ** NAME-STUDENTNUMBER **
-
-and you have to create a directory for each project in your directory
+We created a directory for each project in the directory in this format
 
 ```
-ComputationalNeuroscienceProjects    
+SNU_ComputationalNeuroscience_2022    
 │
 └───Projects
 │   │   
-│   └───AliSaleh-9722053
-|       |      |
-│       │      └───Project1
-│       │      |    project1.py
-│       │      |    project1-report.pdf
-│       │      |
-│       │      └───Project2
-│       │      |    project2.py
-│       │      |    project2-report.pdf
+│   └───
+|       |  
+│       └───Project1
+│       |     project1.py
+│       |     project1-report.pdf
+│       |
+│       └───Project2
+│       |     project2.py
+│       |     project2-report.pdf
 
 ```
