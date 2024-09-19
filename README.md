@@ -28,11 +28,7 @@ The third assignment delved into **neural learning** using **Spike-Timing Depend
 
 
 The main objectives of this course are:
-Implement and simulate different neuronal models (LIF, ALIF, AELIF).
-Analyze neuronal behavior under varying input conditions.
-Understand neuronal population dynamics and interactions.
-Explore neural learning mechanisms using STDP and reward-based learning.
-Gain proficiency in Python programming for computational neuroscience.
+Implement and simulate different neuronal models (LIF, ALIF, AELIF), analyze neuronal behavior under varying input conditions, understand neuronal population dynamics and interactions, and explore neural learning mechanisms using STDP and reward-based learning.
 
 ## How to Run
 To run the code for each assignment, navigate to the respective assignment folder and run the Python scripts. The required Python libraries can be installed using the following command:
